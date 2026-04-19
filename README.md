@@ -14,14 +14,12 @@ Download and use the app from the options below:
 <tr>
 <td align="center">
 <b>Android App</b><br>
-<img src="getApp/Converter-Calculator_android-arm_1.0.0.jpg" width="150"><br><br>
-<a href="getApp/Converter-Calculator_android-arm_1.0.0.apk">⬇️ Download APK (Android-ARM)</a>
+<img src="getApp/Converter-Calculator_android-arm_1.0.0.jpg" width="150">
 </td>
 
 <td align="center">
 <b>iOS / Web App</b><br>
-<img src="getApp/Converter-Calculator_web-release_1.0.0.jpg" width="150"><br><br>
-<a href="getApp/Converter-Calculator_web-release_1.0.0.zip">🌐 Get zip file of Web App</a>
+<img src="getApp/Converter-Calculator_web-release_1.0.0.jpg" width="150">
 </td>
 </tr>
 </table>
