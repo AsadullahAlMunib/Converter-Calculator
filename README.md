@@ -18,7 +18,7 @@ Download and use the app from the options below:
 </td>
 
 <td align="center">
-<b>Web App (zip)</b><br>
+<b>Web App</b><br>
 <img src="getApp/Converter-Calculator_web-release_1.0.0.jpg" width="150">
 </td>
 </tr>
